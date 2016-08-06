@@ -1,7 +1,7 @@
 {
-  "name": "nl.bybram.rfmvc",
+  "name": "nl.merlijnvermeer.nRF905",
   "version": "0.0.1",
-  "description": "Mechanical ventilation support for Homey using Arduino with a nRF905 module.",
+  "description": "433 test app for homey made by Merlijn Vermeer.",
   "main": "app.js",
   "dependencies": {
     "homey-zwavedriver": "git+https://github.com/athombv/node-homey-arduinodriver.git"
@@ -12,9 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bramoosterhuis/nl.bybram.rfmvc.git"
+    "url": "git+https://github.com/Merlijnv/nl.merlijnvermeer.nRF905.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/bramoosterhuis/nl.merlijnvermeer.nRF905/#readme"
+  "homepage": "https://github.com/Merlijnv/nl.merlijnvermeer.nRF905/#readme"
 }
